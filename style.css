@@ -1,0 +1,50 @@
+h1 {
+  width: px;
+}
+nav {
+  margin: auto;
+  background: darkblue;
+  width: 80%;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  border-right: 1px solid white;
+}
+
+ul {
+  background-color: teal;
+  display: inline-block;
+}
+#aboutusbox {
+  margin: 30px;
+  background: darkcyan;
+  display: flex;
+  padding: 50px;
+}
+#hoursbox {
+  margin: 30px;
+  display: flex;
+  padding: 50px;
+  background: darkcyan;
+}
+#contactbox {
+  margin: 30px;
+  display: flex;
+  padding: 50px;
+  background: darkcyan;
+}
+.content {
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background: chocolate;
+  justify-content: center;
+}
+#gallery {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
